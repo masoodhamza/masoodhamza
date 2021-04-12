@@ -1,4 +1,17 @@
-### Hi there 👋
+
+<p align="center">
+  <samp>
+    Hi, I'm Hamza Masood 👋 <br>
+    Full Stack Web Developer  <br>
+    <ul>
+<li>Laravel</li> 
+</ul>
+    :email:	masood.hamzaa@gmail.com <br>
+    :art: Portfolio: https://masoodhamza.github.io <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/masoodhamza <br>
+  </samp>
+</p>
+
 
 
 <!--
