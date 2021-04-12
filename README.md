@@ -3,8 +3,15 @@
   <samp>
     Hi, I'm Hamza Masood 👋 <br>
     Full Stack Web Developer  <br>
+Seeking a responsible and challenging carrier with the reputed organization, which will best utilize my technical skills and enhance my professional growth.
+<br>
+<hr>
+
     <ul>
-<li>Laravel</li> 
+<li>Laravel/PHP</li> 
+<li>Python</li>
+<li>JS</li>
+
 </ul>
     :email:	masood.hamzaa@gmail.com <br>
     :art: Portfolio: https://masoodhamza.github.io <br>
