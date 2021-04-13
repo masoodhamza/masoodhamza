@@ -14,7 +14,7 @@
 
 <hr>
 
-<h3>__Experties and Proficiencies__</h3>
+<h3>Experties and Proficiencies</h3>
 <ul>
     <li>Laravel/PHP</li> 
     <li>Python</li>
