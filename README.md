@@ -1,8 +1,9 @@
+<h1>Hi, I'm Hamza Masood 👋</h1>
+<h2>Full Stack Web Developer</h2>
 
 <p align="center">
   <samp>
-    Hi, I'm Hamza Masood 👋 <br>
-    Full Stack Web Developer  <br>
+       
 Seeking a responsible and challenging carrier with the reputed organization, which will best utilize my technical skills and enhance my professional growth.
 <br>
 <hr>
