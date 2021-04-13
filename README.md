@@ -11,9 +11,9 @@ My tools are: <br>
 <li>JS</li>
 <li>HTML5/CSS3</li>
 
-<a href="mailto:masood.hamzaa@gmail.com"> Contact Me </a><br>
-<a href="https://masoodhamza.github.io"> Portfolio </a><br>
-<a href="https://www.linkedin.com/in/masoodhamza"> LinkedIn </a><br>
+<a href="mailto:masood.hamzaa@gmail.com" target="_blank"> Contact Me </a><br>
+<a href="https://masoodhamza.github.io" target="_blank"> Portfolio </a><br>
+<a href="https://www.linkedin.com/in/masoodhamza" target="_blank"> LinkedIn </a><br>
 
      
     
