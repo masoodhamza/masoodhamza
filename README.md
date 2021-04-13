@@ -5,16 +5,22 @@
 </div>
 <hr>
 
-My tools are: <br>
-<li>Laravel/PHP</li> 
-<li>Python</li>
-<li>JS</li>
-<li>HTML5/CSS3</li>
 
-<a href="mailto:masood.hamzaa@gmail.com" target="_blank"> Contact Me </a><br>
-<a href="https://masoodhamza.github.io" target="_blank"> Portfolio </a><br>
-<a href="https://www.linkedin.com/in/masoodhamza" target="_blank"> LinkedIn </a><br>
+<h3>Experties and Proficiencies</h3>
+<ul>
+    <li>Laravel/PHP</li> 
+    <li>Python</li>
+    <li>JS</li>
+    <li>HTML5/CSS3</li>
+</ul>
 
+<hr>
+<div align="center">
+<h3>Contact Me</h3>
+<a href="mailto:masood.hamzaa@gmail.com" target="_blank"> Email </a> -
+<a href="https://masoodhamza.github.io" target="_blank"> Portfolio </a> -
+<a href="https://www.linkedin.com/in/masoodhamza" target="_blank"> LinkedIn </a>
+</div>
      
     
     
