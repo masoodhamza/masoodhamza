@@ -1,11 +1,11 @@
+<div align="center">
 <h1>Hi, I'm Hamza Masood 👋</h1>
 <h2>Full Stack Web Developer</h2>
 
-<p align="center">
-  <samp>
-       
+<p align="center">       
 Seeking a responsible and challenging carrier with the reputed organization, which will best utilize my technical skills and enhance my professional growth.
-<br>
+</p>
+
 <hr>
 
 My tools are: <br>
@@ -17,10 +17,8 @@ My tools are: <br>
     :email:	masood.hamzaa@gmail.com <br>
     :art: Portfolio: https://masoodhamza.github.io <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/masoodhamza <br>
-  </samp>
-</p>
 
-
+</div>
 
 <!--
 **masoodhamza/masoodhamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
