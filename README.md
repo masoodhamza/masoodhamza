@@ -5,8 +5,16 @@
 </div>
 <hr>
 
+<h3>__Qualification and Certifications__</h3>
+<ul>
+    <li>MASTER OF INFORMATION TECHNOLOGY (MIT)</li> 
+    <li><a href="https://www.qwiklabs.com/public_profiles/3c6df089-d7f2-47f1-acd6-855f41b11350">GOOGLE CLOUD CERTIFICATION</a></li>
+    <li><a href="https://www.certiport.com/Portal/Pages/ViewTranscript.aspx?uid=vpS3MyJYrFVZRkr+nsZCeQ==&vid=U05+Vyj+qW6hsxSDDaxQwg==&aid=Xu1nBr8UrxAtpSdR3zIXLQ==&defaultlang=ENU">MICROSOFT OFFICE SPECIALIST</a></li>
+</ul>
 
-<h3>Experties and Proficiencies</h3>
+<hr>
+
+<h3>__Experties and Proficiencies__</h3>
 <ul>
     <li>Laravel/PHP</li> 
     <li>Python</li>
