@@ -20,6 +20,9 @@
     <li>Python</li>
     <li>JS</li>
     <li>HTML5/CSS3</li>
+    <li>Bootstrap</li>
+    <li>jQuery</li>
+    <li>Wordpress</li>
 </ul>
 
 <hr>
