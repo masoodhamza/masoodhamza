@@ -18,6 +18,7 @@
 <ul>
     <li>Laravel/PHP</li> 
     <li>Python</li>
+    <li>Django</li>
     <li>JS</li>
     <li>HTML5/CSS3</li>
     <li>Bootstrap</li>
