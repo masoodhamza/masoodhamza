@@ -19,19 +19,27 @@
     <li>Laravel/PHP</li> 
     <li>Python</li>
     <li>Django</li>
-    <li>JS</li>
+    <li>JavaScript</li>
+    <li>ReactJS</li>
+    <li>NodeJS</li>
     <li>HTML5/CSS3</li>
     <li>Bootstrap</li>
     <li>jQuery</li>
+    <li>Ajax</li>    
     <li>Wordpress</li>
+    <li>MySQL</li>
+    <li>MS SQL Server</li>
+    <li>Firebase</li>
+    <li>Jira</li>
 </ul>
 
 <hr>
 <div align="center">
 <h3>Contact Me</h3>
-<a href="mailto:masood.hamzaa@gmail.com" target="_blank"> Email </a> -
-<a href="https://masoodhamza.github.io" target="_blank"> Portfolio </a> -
-<a href="https://www.linkedin.com/in/masoodhamza" target="_blank"> LinkedIn </a>
+    <a href="mailto:masood.hamzaa@gmail.com" target="_blank"> Email </a> -
+    <a href="https://masoodhamza.github.io" target="_blank"> Portfolio </a> -
+    <a href="https://www.linkedin.com/in/masoodhamza" target="_blank"> LinkedIn </a> -
+    <a href="https://wa.me/+923335254684" target="_blank"> WhatsApp </a>
 </div>
      
     
