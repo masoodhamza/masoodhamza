@@ -34,6 +34,18 @@
 </ul>
 
 <hr>
+
+<p align="center">         
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=masoodhamza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /> 
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=masoodhamza&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
+<hr>
+</p>
+
+
+                        
+<a href="https://github.com/masoodhamza"><img alt="Hamza's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=masoodhamza&theme=react-dark&hide_border=true&area=true" /></a>
+
+<hr>
 <div align="center">
 <h3>Contact Me</h3>
     <a href="mailto:masood.hamzaa@gmail.com" target="_blank"> Email </a> -
